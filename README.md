@@ -12,9 +12,9 @@ The website mockups include:
 
 1. ![**Homepage**](./UI Project/assets/images/homepage.jpg)  
 2. ![**Homepage with Dropdown**](./UI Project/assets/images/homepagedropdown.jpg)  
-3. ![**About Page**](./UI Project/assets/images/about.jpg) 
-4. ![**Services Page 1**](./UI Project/assets/images/services1.jpg) 
-5. ![**Services Page 2**](./UI Project/assets/images/services2.jpg) 
+3. ![**About Page**](./UI Project/assets/images/about.jpg)  
+4. ![**Services Page 1**](./UI Project/assets/images/services1.jpg)  
+5. ![**Services Page 2**](./UI Project/assets/images/services2.jpg)  
 6. ![**Services Page 3**](./UI Project/assets/images/services3.jpg)  
 7. ![**Services Page 4**](./UI Project/assets/images/services4.jpg)  
 8. ![**Reviews Page**](./UI Project/assets/images/reviews.jpg)  
